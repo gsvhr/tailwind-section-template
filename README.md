@@ -1,3 +1,5 @@
 # tailwind-section-template
 
-[html sections templates with tailwindcss](https://gsvhr.github.io/tailwind-section-template/ "Online demo"){:target="_blank"}
+html sections templates with tailwindcss
+
+<a href="https://gsvhr.github.io/tailwind-section-template/" target="_blank" rel="noopener noreferrer">Online Demo</a>
